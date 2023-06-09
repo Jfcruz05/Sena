@@ -1,0 +1,34 @@
+
+table{    
+    background: azure;
+    border: 10px double;
+    width: 35%;
+}
+h1{
+    font-family: cursive
+}
+.sectionOne{
+    font-family: cursive;
+    nav-down: 100px
+}
+input{
+    background-color: gainsboro;
+}
+body{
+    background-color: aquamarine
+
+} 
+/* seccion 2 o tabla 2*/
+.sectionTwo {
+    font-family: cursive;
+    nav-down: 10px;
+}
+#sectionTwo tr, #sectionTwo th {
+    border: 3px solid black;
+    border-radius: 5px; 
+    background-color: aliceblue;
+}
+
+#sectionTwo td {
+    border: 1.5px solid black;
+}
