@@ -32,3 +32,12 @@ body{
 #sectionTwo td {
     border: 1.5px solid black;
 }
+td:hover{
+    background-color: grey;
+}
+input:hover{
+    background-color: grey;
+}
+tr:hover{
+    background-color: grey;
+}
